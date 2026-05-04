@@ -1,0 +1,10 @@
+total 55
+drwxr-xr-x 1 user 197121     0 May  5 00:04 ./
+drwxr-xr-x 1 user 197121     0 May  4 23:06 ../
+drwxr-xr-x 1 user 197121     0 May  5 00:04 .git/
+-rw-r--r-- 1 user 197121  7883 May  4 23:09 .gitignore
+-rw-r--r-- 1 user 197121   437 May  4 23:06 3way.txt
+-rw-r--r-- 1 user 197121 35823 May  4 23:06 LICENSE
+-rw-r--r-- 1 user 197121    21 May  4 23:06 README.md
+-rw-r--r-- 1 user 197121     0 May  5 00:04 World.txt
+-rw-r--r-- 1 user 197121   525 May  4 23:07 test.txt
